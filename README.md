@@ -1,6 +1,6 @@
 # KnightTourSolver-Datasets
 
-/Datasets -- Excel files containing the raw data
+/Datasets -- Excel files containing the raw simulation study data
 
 /Graphs -- Visualisations about the project broadly
 
